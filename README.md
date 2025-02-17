@@ -15,3 +15,7 @@ This image shows the drawn boundary lines representing the path of the cones
 
 ## What Did You Try and Why Did It Not Work?  
 - I tried to hone in the detection of the cones so the lines would be more directly in-line with the cones, but this often lead to varying results, from not detecting real cones to detecting colors on the walls.
+
+## Libraries Used
+- OpenCV (`cv2`) – Used for image processing and displaying result.  
+- NumPy (`numpy`) – Used for line fitting.  
